@@ -6,10 +6,6 @@
     color: #c4151f;
 }
 
-header h1 {
-    color: white !important;
-}
-
 .facebook, .twitter, .instagram, .youtube, .github, .gitlab, .keybase, .linkedin, .medium, .mastodon, .slack, .stackoverflow, .rss {
   fill: white;
 }
