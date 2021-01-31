@@ -11,6 +11,10 @@
     color: var(--bjien-red);
 }
 
+.b--bjien {
+    border-color: var(--bjien-green);
+}
+
 nav svg {
     fill: var(--bjien-red);
 }
