@@ -11,8 +11,13 @@
     color: var(--bjien-red);
 }
 
+.bw25 {
+    border-width: 6px;
+    border-width: .375rem;
+}
+
 .b--bjien {
-    border-color: var(--bjien-green);
+    border-color: var(--bjien-red);
 }
 
 nav svg {
