@@ -38,3 +38,7 @@ footer svg {
 .bjien-border-inner-top {
     border-top: .125rem solid white;
 }
+
+.bjien-nav-active-border {
+    border-bottom: .125rem solid var(--bjien-green);
+}
