@@ -42,3 +42,21 @@ footer svg {
 .bjien-nav-active-border {
     border-bottom: .125rem solid var(--bjien-green);
 }
+
+@media screen and (min-width:60em) {
+    .w-teaser-l {
+        width: 47%;
+    }
+}
+
+.pagination {
+    margin: 0;
+    padding: 1.5rem 0 0 0;
+    text-align: center;
+}
+
+.pagination li {
+    margin-left: .5rem;
+    margin-right: .5rem;
+    font-size: 1rem;
+}
