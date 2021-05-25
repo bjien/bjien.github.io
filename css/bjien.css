@@ -60,3 +60,7 @@ footer svg {
     margin-right: .5rem;
     font-size: 1rem;
 }
+
+.nested-copy-line-height li {
+    margin-bottom: 0.75em;
+}
