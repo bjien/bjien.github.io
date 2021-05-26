@@ -43,12 +43,6 @@ footer svg {
     border-bottom: .125rem solid var(--bjien-green);
 }
 
-@media screen and (min-width:60em) {
-    .w-teaser-l {
-        width: 47%;
-    }
-}
-
 .pagination {
     margin: 0;
     padding: 1.5rem 0 0 0;
@@ -63,4 +57,8 @@ footer svg {
 
 .nested-copy-line-height li {
     margin-bottom: 0.75em;
+}
+
+.mw-bjien {
+    max-width: 80rem;
 }
