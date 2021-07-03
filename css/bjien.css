@@ -74,3 +74,11 @@ footer svg {
 .tracked-meta {
   letter-spacing: .05em;
 }
+
+.h-summary-meta {
+  height: 2.5rem;
+}
+
+.lh-summary-meta {
+  line-height: 2.5rem;
+}
