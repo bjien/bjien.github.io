@@ -62,3 +62,15 @@ footer svg {
 .mw-bjien {
     max-width: 75rem;
 }
+
+.h-meta {
+  height: 4em;
+}
+
+.lh-meta {
+  line-height: 2em;
+}
+
+.tracked-meta {
+  letter-spacing: .05em;
+}
