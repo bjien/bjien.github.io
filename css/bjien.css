@@ -19,6 +19,15 @@
   border-radius: 50%;
 }
 
+.logo-animation {
+  transition: transform .2s linear;
+  transform-origin: 28% 50%;
+}
+
+.logo-animation:hover {
+  transform: rotate(-2deg);
+}
+
 hr {
   height: 2px;
   border-width: 0;
