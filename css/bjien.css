@@ -3,6 +3,14 @@
   --bjien-red: #c4151f;
 }
 
+.nunito {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.roboto {
+  font-family: 'Roboto', sans-serif;
+}
+
 .bg-bjien {
   background-color: var(--bjien-green);
 }
@@ -77,7 +85,7 @@ footer svg {
 }
 
 .mw-bjien {
-  max-width: 75rem;
+  max-width: 70rem;
 }
 
 .h-meta {
