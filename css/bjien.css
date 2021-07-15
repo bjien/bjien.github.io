@@ -107,3 +107,9 @@ footer svg {
 .lh-summary-meta {
   line-height: 2.5rem;
 }
+
+.nested-img figure {
+  margin: 1.7rem auto;
+  padding: 0 1.7rem;
+  max-width: 55rem;
+}
